@@ -78,3 +78,15 @@
       }
    }
 }
+
+
+{
+    "slots": {
+        "Front2": {
+            "name": "Front FAR Camera",
+            "props": {
+                "far": 1500
+            }
+        },
+    }
+}
